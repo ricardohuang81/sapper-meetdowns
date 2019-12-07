@@ -1,3 +1,7 @@
+## Server-side rendered Sapper Meetdowns app allows user to create, edit, and delete meetdowns hosted on AWS Elastic Beanstalk instance
+
+---
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
