@@ -1,4 +1,4 @@
-# Server-Side Rendered (SSR) Sapper Meetdowns app allows user to create, edit, favorite, and delete meetdowns hosted on AWS Elastic Beanstalk instance + Sapper Animations
+# Server-Side Rendered (SSR) Sapper (Svelte) Meetdowns app allows user to create, edit, favorite, and delete meetdowns hosted on AWS Elastic Beanstalk instance + Svelte Animations
 
 ---
 
